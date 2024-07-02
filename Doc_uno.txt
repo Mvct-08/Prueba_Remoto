@@ -1,0 +1,3 @@
+Este es un archivo de prueba acerca de git
+
+Git es una herremineta para controlar los cambios que realizas en un documento
